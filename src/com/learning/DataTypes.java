@@ -16,8 +16,8 @@ public class DataTypes {
         //float num = 1.0;  It is error because java (1.0) default is double
         // so, define it is float ............
         float n = (float)1.0;
-        float num = 1.0f;
 
+        float num = 1.0f;
         double num1 = 1.0;
 
         int f1 = 5/2 ;
